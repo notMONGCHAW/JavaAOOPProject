@@ -79,4 +79,3 @@ This project is licensed under the [MIT License](LICENSE).
 For issues, suggestions, or collaborations, open an issue or check the **[Support Page](https://github.com/your-username/JavaFX-Isometric-Shooter/wiki/Support)**.
 
 ---
-****
